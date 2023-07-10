@@ -36,9 +36,11 @@
   - Busing Problem
 * Nike
 
-### Transportation and Assignment
+### Transportation
 * Transportation Problem Template
 * Transportation Problem Alternative Template
 * Construction Projects
+
+### Assignment
 
 ### Integer Programming and Nonlinear Programming
