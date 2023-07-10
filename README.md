@@ -42,5 +42,6 @@
 * Construction Projects
 
 ### Assignment
+* New Hire Assignments
 
 ### Integer Programming and Nonlinear Programming
