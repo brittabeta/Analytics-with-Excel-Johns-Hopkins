@@ -39,5 +39,6 @@
 ### Transportation and Assignment
 * Transportation Problem Template
 * Transportation Problem Alternative Template
+* Construction Projects
 
 ### Integer Programming and Nonlinear Programming
