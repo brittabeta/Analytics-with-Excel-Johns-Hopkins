@@ -37,5 +37,7 @@
 * Nike
 
 ### Transportation and Assignment
+* Transportation Problem Template
+* Transportation Problem Alternative Template
 
 ### Integer Programming and Nonlinear Programming
