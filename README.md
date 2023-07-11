@@ -43,5 +43,6 @@
 
 ### Assignment
 * New Hire Assignments
+* MLB Umpire Assignment
 
 ### Integer Programming and Nonlinear Programming
