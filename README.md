@@ -40,9 +40,14 @@
 * Transportation Problem Template
 * Transportation Problem Alternative Template
 * Construction Projects
+* Umbrella Corporation, LLC
 
 ### Assignment
 * New Hire Assignments
 * MLB Umpire Assignment
+* College Professors
+* Johns Hopkins Basketball
 
 ### Integer Programming and Nonlinear Programming
+* Princess Brides
+* Bolsa de Café
