@@ -60,3 +60,8 @@
 ### Nonlinear Programming
 * Portfolio Variance
 * Motocross Snowmobiles
+* Baseball Stadium
+
+### Integer Programming and Nonlinear Programming
+* Textbook Company
+* M&T Stadium
