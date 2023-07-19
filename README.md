@@ -48,6 +48,14 @@
 * College Professors
 * Johns Hopkins Basketball
 
-### Integer Programming and Nonlinear Programming
+### Integer Programming 
 * Princess Brides
 * Bolsa de Café
+* Art Posters
+
+### Binary Integer Programming
+* Binary Investment Decision
+* Horizon Wireless
+
+### Nonlinear Programming
+* Portfolio Variance
