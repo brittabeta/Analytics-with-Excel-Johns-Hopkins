@@ -21,7 +21,9 @@
 * Modeling Net Present Value (NPV)
   - Gopher Drugs
 * Microsoft Sales and Toy Company
-* Bluejay Natural Gas Midterm
+
+### Midterm
+* Bluejay Natural Gas
 
 ### Linear Programming
 * Campaign Marketing
@@ -63,5 +65,8 @@
 * Baseball Stadium
 
 ### Integer Programming and Nonlinear Programming
-* Textbook Company
-* M&T Stadium
+* Textbook Company (integer programming)
+* M&T Stadium (nonlinear programming)
+
+### Final
+* Bluejay Natural Gas Final
